@@ -7,7 +7,7 @@
     angular.module('BlurAdmin.pages')
         .constant('Config', {
             ENV: {
-                SERVER: 'http://provinciasunidasltd.com.ar/apiv1/public/api.php/',
+                SERVER: 'http://fragaria.aplicativos.com.ar/apiv1/public/api.php/',
             }
         })
 
