@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diseenio/portalv2.svg?branch=master)](https://travis-ci.org/diseenio/portalv2)
+
 # DISEENIO.COM
 ## Portal de Pedidos v2.0
 
